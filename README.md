@@ -14,3 +14,8 @@ git add nome file
 git commit --message " messaggio"
 
 git push
+
+git config  push.default simple ( 1 time only)"
+
+
+
