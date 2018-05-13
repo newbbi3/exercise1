@@ -1,7 +1,7 @@
 # exercise1
 
 
-apt-get install git
+apt-get install git php
 
 git clone https://github.com/newbbi3/exercise1.git
 
@@ -17,5 +17,7 @@ git push
 
 git config  push.default simple ( 1 time only)"
 
+php -S localhost:8000
 
+http://localhost:8000/ciao.php
 
